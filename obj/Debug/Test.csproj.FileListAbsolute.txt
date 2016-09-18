@@ -1,0 +1,5 @@
+c:\users\chengmx\documents\visual studio 2013\Projects\Test\bin\Debug\Test.dll
+c:\users\chengmx\documents\visual studio 2013\Projects\Test\bin\Debug\Test.pdb
+c:\users\chengmx\documents\visual studio 2013\Projects\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\chengmx\documents\visual studio 2013\Projects\Test\obj\Debug\Test.dll
+c:\users\chengmx\documents\visual studio 2013\Projects\Test\obj\Debug\Test.pdb

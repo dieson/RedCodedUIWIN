@@ -1,0 +1,7 @@
+C:\Users\ZhangR4\Documents\Visual Studio 2013\Projects\Test\bin\Debug\Test.dll
+C:\Users\ZhangR4\Documents\Visual Studio 2013\Projects\Test\bin\Debug\Test.pdb
+C:\Users\ZhangR4\Documents\Visual Studio 2013\Projects\Test\bin\Debug\Test.dll.CodeAnalysisLog.xml
+C:\Users\ZhangR4\Documents\Visual Studio 2013\Projects\Test\bin\Debug\Test.dll.lastcodeanalysissucceeded
+C:\Users\ZhangR4\Documents\Visual Studio 2013\Projects\Test\obj\Debug\LexisRedWin.csprojResolveAssemblyReference.cache
+C:\Users\ZhangR4\Documents\Visual Studio 2013\Projects\Test\obj\Debug\Test.dll
+C:\Users\ZhangR4\Documents\Visual Studio 2013\Projects\Test\obj\Debug\Test.pdb
